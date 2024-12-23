@@ -1,1 +1,1 @@
-# 10eqs-interview-class
+# 10eqs-interview
